@@ -42128,9 +42128,9 @@
 														"$ref": "AAAAAAGE32iiZFDs/3k="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 694.9999542236328,
+													"left": 695,
 													"top": 181,
-													"width": 144.99981689453125,
+													"width": 145,
 													"height": 20,
 													"text": "Thêm độc giả"
 												},
@@ -42143,7 +42143,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 653,
 													"top": 181,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "opt"
 												},
@@ -42229,9 +42229,9 @@
 														"$ref": "AAAAAAGE32kBVFEGmAI="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 729.4999542236328,
+													"left": 729.5,
 													"top": 221,
-													"width": 322.5000457763672,
+													"width": 322.5,
 													"height": 20,
 													"text": ": sequence Thêm độc giả"
 												},
@@ -42244,7 +42244,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 669,
 													"top": 221,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "ref"
 												}
@@ -42278,9 +42278,9 @@
 														"$ref": "AAAAAAGE32wR/VE2Cpc="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 694.9999542236328,
+													"left": 695,
 													"top": 381,
-													"width": 132.9998321533203,
+													"width": 133,
 													"height": 20,
 													"text": "Xóa độc giả"
 												},
@@ -42293,7 +42293,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 653,
 													"top": 381,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "opt"
 												},
@@ -42379,9 +42379,9 @@
 														"$ref": "AAAAAAGE32yWw1FQkfY="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 729.4999542236328,
+													"left": 729.5,
 													"top": 429,
-													"width": 322.5000457763672,
+													"width": 322.5,
 													"height": 20,
 													"text": ": sequence Xóa độc giả"
 												},
@@ -42394,7 +42394,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 669,
 													"top": 429,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "ref"
 												}
@@ -42428,9 +42428,9 @@
 														"$ref": "AAAAAAGE321R+VFdGo8="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 694.9999542236328,
+													"left": 695,
 													"top": 565,
-													"width": 192.999755859375,
+													"width": 193,
 													"height": 20,
 													"text": "Cập nhật độc giả"
 												},
@@ -42443,7 +42443,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 653,
 													"top": 565,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "opt"
 												},
@@ -42529,9 +42529,9 @@
 														"$ref": "AAAAAAGE322k4VF1TYU="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 729.4999542236328,
+													"left": 729.5,
 													"top": 605,
-													"width": 322.5000457763672,
+													"width": 322.5,
 													"height": 20,
 													"text": ": sequence Tra cứu độc giả"
 												},
@@ -42544,7 +42544,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 669,
 													"top": 605,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "ref"
 												}
@@ -42578,9 +42578,9 @@
 														"$ref": "AAAAAAGE3245B1GCXkc="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 694.9999542236328,
+													"left": 695,
 													"top": 733,
-													"width": 180.99977111816406,
+													"width": 181,
 													"height": 20,
 													"text": "Tra cứu độc giả"
 												},
@@ -42593,7 +42593,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 653,
 													"top": 733,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "opt"
 												},
@@ -42679,9 +42679,9 @@
 														"$ref": "AAAAAAGE3252W1GaeEg="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 729.4999542236328,
+													"left": 729.5,
 													"top": 781,
-													"width": 319.49957275390625,
+													"width": 319.49952697753906,
 													"height": 20,
 													"text": ": sequence Tra cứu độc giả"
 												},
@@ -42694,7 +42694,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 669,
 													"top": 781,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "ref"
 												}
@@ -43763,7 +43763,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 46.99995422363281,
+													"left": 47,
 													"top": 349,
 													"width": 1,
 													"height": 20
@@ -43777,7 +43777,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 5,
 													"top": 349,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -43810,7 +43810,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 389,
-																	"width": 191.999755859375,
+																	"width": 192,
 																	"height": 20,
 																	"text": "[Đúng định dạng]"
 																}
@@ -43842,7 +43842,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 614,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -44343,7 +44343,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 54.99995422363281,
+													"left": 55,
 													"top": 717,
 													"width": 1,
 													"height": 20
@@ -44357,7 +44357,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 13,
 													"top": 717,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -44390,7 +44390,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 28,
 																	"top": 757,
-																	"width": 227.9997100830078,
+																	"width": 228,
 																	"height": 20,
 																	"text": "[Vi phạm ràng buộc]"
 																}
@@ -44423,7 +44423,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 28,
 																	"top": 870,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -45900,7 +45900,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 46.99995422363281,
+													"left": 47,
 													"top": 391,
 													"width": 1,
 													"height": 20
@@ -45914,7 +45914,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 5,
 													"top": 391,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -45947,7 +45947,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 431,
-																	"width": 179.99977111816406,
+																	"width": 180,
 																	"height": 20,
 																	"text": "[Sai định dạng]"
 																}
@@ -45979,7 +45979,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 614,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -46256,7 +46256,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 54.99995422363281,
+													"left": 55,
 													"top": 717,
 													"width": 1,
 													"height": 20
@@ -46270,7 +46270,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 13,
 													"top": 717,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -46303,7 +46303,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 28,
 																	"top": 757,
-																	"width": 227.9997100830078,
+																	"width": 228,
 																	"height": 20,
 																	"text": "[Vi phạm ràng buộc]"
 																}
@@ -46336,7 +46336,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 28,
 																	"top": 870,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -48754,7 +48754,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 46.99995422363281,
+													"left": 47,
 													"top": 391,
 													"width": 1,
 													"height": 20
@@ -48768,7 +48768,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 5,
 													"top": 391,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -48801,7 +48801,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 431,
-																	"width": 179.99977111816406,
+																	"width": 180,
 																	"height": 20,
 																	"text": "[Sai định dạng]"
 																}
@@ -48833,7 +48833,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 614,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -49110,7 +49110,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 54.99995422363281,
+													"left": 55,
 													"top": 717,
 													"width": 1,
 													"height": 20
@@ -49124,7 +49124,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 13,
 													"top": 717,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -49157,7 +49157,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 28,
 																	"top": 757,
-																	"width": 275.9996337890625,
+																	"width": 276,
 																	"height": 20,
 																	"text": "[Không tồn tại độc giả]"
 																}
@@ -49190,7 +49190,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 28,
 																	"top": 870,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -50374,9 +50374,9 @@
 														"$ref": "AAAAAAGE4kKWQ2U4geY="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 896,
+													"left": 895,
 													"top": 931,
-													"width": 323.99957275390625,
+													"width": 324,
 													"height": 20,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -50486,9 +50486,9 @@
 														"$ref": "AAAAAAGE4kKWQ2U5I4Y="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 520,
+													"left": 519,
 													"top": 967,
-													"width": 323.99957275390625,
+													"width": 324,
 													"height": 20,
 													"alpha": 1.1801897860558939,
 													"distance": 18.384776310850235,
@@ -51506,7 +51506,7 @@
 															"visible": false,
 															"font": "Source Code Pro;20;0",
 															"left": -452,
-															"width": 371.99951171875,
+															"width": 372,
 															"height": 20,
 															"text": "(from Tra cứu độc giả Sequence)"
 														},
@@ -51703,9 +51703,9 @@
 														"$ref": "AAAAAAGE4sAlVvh3RP4="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 573,
+													"left": 572,
 													"top": 175,
-													"width": 239.99969482421875,
+													"width": 240,
 													"height": 20,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -51815,9 +51815,9 @@
 														"$ref": "AAAAAAGE4sChXPiNAbs="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 1048,
+													"left": 1047,
 													"top": 223,
-													"width": 263.9996643066406,
+													"width": 264,
 													"height": 20,
 													"alpha": 1.8525671706390707,
 													"distance": 118.68024266911489,
@@ -51925,7 +51925,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 46.99995422363281,
+													"left": 47,
 													"top": 317,
 													"width": 1,
 													"height": 20
@@ -51939,7 +51939,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 5,
 													"top": 317,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -51972,7 +51972,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 357,
-																	"width": 119.99984741210938,
+																	"width": 120,
 																	"height": 20,
 																	"text": "[Tìm thấy]"
 																}
@@ -52004,7 +52004,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 640,
-																	"width": 191.999755859375,
+																	"width": 192,
 																	"height": 20,
 																	"text": "[Không tìm thấy]"
 																}
@@ -52170,9 +52170,9 @@
 														"$ref": "AAAAAAGE4saRe/jrqBs="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 688,
+													"left": 687,
 													"top": 439,
-													"width": 335.99957275390625,
+													"width": 336,
 													"height": 20,
 													"alpha": 1.4352690590568875,
 													"distance": 22.20360331117452,
@@ -52395,9 +52395,9 @@
 														"$ref": "AAAAAAGE4shTSfkilDE="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 696,
+													"left": 695,
 													"top": 702,
-													"width": 323.99957275390625,
+													"width": 324,
 													"height": 20,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -52916,7 +52916,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGE4G0n9HMKScE="
 					},
-					"name": "Đăng ký thẻ",
+					"name": "Gia hạn thẻ Sequence",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -52924,7 +52924,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGE7DvUYxKda2U="
 							},
-							"name": "Đăng ký thẻ",
+							"name": "Gia hạn thẻ Sequence",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
@@ -52932,7 +52932,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGE7DvUZBKekis="
 									},
-									"name": "Đăng ký thẻ",
+									"name": "Gia hạn thẻ Sequence",
 									"ownedViews": [
 										{
 											"_type": "UMLSeqLifelineView",
@@ -52987,9 +52987,9 @@
 															"visible": false,
 															"font": "Source Code Pro;20;0",
 															"left": -168,
-															"width": 215.99972534179688,
+															"width": 324,
 															"height": 20,
-															"text": "(from Đăng ký thẻ)"
+															"text": "(from Gia hạn thẻ Sequence)"
 														},
 														{
 															"_type": "LabelView",
@@ -53102,9 +53102,9 @@
 															"visible": false,
 															"font": "Source Code Pro;20;0",
 															"left": -626,
-															"width": 215.99972534179688,
+															"width": 324,
 															"height": 20,
-															"text": "(from Đăng ký thẻ)"
+															"text": "(from Gia hạn thẻ Sequence)"
 														},
 														{
 															"_type": "LabelView",
@@ -53219,9 +53219,9 @@
 															"visible": false,
 															"font": "Source Code Pro;20;0",
 															"left": -1194,
-															"width": 215.99972534179688,
+															"width": 324,
 															"height": 20,
-															"text": "(from Đăng ký thẻ)"
+															"text": "(from Gia hạn thẻ Sequence)"
 														},
 														{
 															"_type": "LabelView",
@@ -53336,9 +53336,9 @@
 															"visible": false,
 															"font": "Source Code Pro;20;0",
 															"left": -1872,
-															"width": 215.99972534179688,
+															"width": 324,
 															"height": 20,
-															"text": "(from Đăng ký thẻ)"
+															"text": "(from Gia hạn thẻ Sequence)"
 														},
 														{
 															"_type": "LabelView",
@@ -53453,9 +53453,9 @@
 															"visible": false,
 															"font": "Source Code Pro;20;0",
 															"left": -2162,
-															"width": 215.99972534179688,
+															"width": 324,
 															"height": 20,
-															"text": "(from Đăng ký thẻ)"
+															"text": "(from Gia hạn thẻ Sequence)"
 														},
 														{
 															"_type": "LabelView",
@@ -53648,7 +53648,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 46.99995422363281,
+													"left": 47,
 													"top": 221,
 													"width": 1,
 													"height": 20
@@ -53662,7 +53662,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 5,
 													"top": 221,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -53695,7 +53695,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 261,
-																	"width": 155.9998016357422,
+																	"width": 156,
 																	"height": 20,
 																	"text": "[Thẻ còn hạn]"
 																}
@@ -53727,7 +53727,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 384,
-																	"width": 155.9998016357422,
+																	"width": 156,
 																	"height": 20,
 																	"text": "[Thẻ hết hạn]"
 																}
@@ -53781,9 +53781,9 @@
 														"$ref": "AAAAAAGFL2zmitBUh24="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 456,
+													"left": 455,
 													"top": 295,
-													"width": 299.9996337890625,
+													"width": 300,
 													"height": 20,
 													"alpha": 1.6191447108514194,
 													"distance": 186.21761463406193,
@@ -53891,7 +53891,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 46.99995422363281,
+													"left": 47,
 													"top": 613,
 													"width": 1,
 													"height": 20
@@ -53905,7 +53905,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 5,
 													"top": 613,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -53938,7 +53938,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 653,
-																	"width": 95.9998779296875,
+																	"width": 96,
 																	"height": 20,
 																	"text": "[Đồng ý]"
 																}
@@ -53970,7 +53970,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 20,
 																	"top": 1152,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -54024,9 +54024,9 @@
 														"$ref": "AAAAAAGFL3qsENDGi4s="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 456,
+													"left": 455,
 													"top": 447,
-													"width": 311.99957275390625,
+													"width": 312,
 													"height": 20,
 													"alpha": 1.5760036127627086,
 													"distance": 192.00260414900626,
@@ -54247,7 +54247,7 @@
 													},
 													"visible": false,
 													"font": "Source Code Pro;20;0",
-													"left": 62.99995422363281,
+													"left": 63,
 													"top": 701,
 													"width": 1,
 													"height": 20
@@ -54261,7 +54261,7 @@
 													"font": "Source Code Pro;20;1",
 													"left": 21,
 													"top": 701,
-													"width": 36.99995422363281,
+													"width": 37,
 													"height": 20,
 													"text": "alt"
 												},
@@ -54294,7 +54294,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 36,
 																	"top": 741,
-																	"width": 275.9996337890625,
+																	"width": 276,
 																	"height": 20,
 																	"text": "[Độc giả đủ thành niên]"
 																}
@@ -54327,7 +54327,7 @@
 																	"font": "Source Code Pro;20;0",
 																	"left": 36,
 																	"top": 1032,
-																	"width": 131.9998321533203,
+																	"width": 132,
 																	"height": 20,
 																	"text": "[Ngược lại]"
 																}
@@ -54384,9 +54384,9 @@
 														"$ref": "AAAAAAGFL4GKmtELpXA="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 459,
+													"left": 458,
 													"top": 804,
-													"width": 251.9996795654297,
+													"width": 252,
 													"height": 20,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -54496,9 +54496,9 @@
 														"$ref": "AAAAAAGFL4IIr9FBWiM="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 903,
+													"left": 902,
 													"top": 844,
-													"width": 251.9996795654297,
+													"width": 252,
 													"height": 20,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -54721,9 +54721,9 @@
 														"$ref": "AAAAAAGFL4QVt9GLt28="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 920,
+													"left": 919,
 													"top": 960,
-													"width": 215.99972534179688,
+													"width": 216,
 													"height": 20,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -54833,9 +54833,9 @@
 														"$ref": "AAAAAAGFL4OFYdF0ZGg="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 432,
+													"left": 431,
 													"top": 983,
-													"width": 263.9996643066406,
+													"width": 264,
 													"height": 20,
 													"alpha": 1.5777396591276824,
 													"distance": 144.00347218036097,
@@ -55058,9 +55058,9 @@
 														"$ref": "AAAAAAGFL4T159G6d8k="
 													},
 													"font": "Source Code Pro;20;0",
-													"left": 424,
+													"left": 423,
 													"top": 1198,
-													"width": 335.99957275390625,
+													"width": 336,
 													"height": 20,
 													"alpha": 1.582422709075331,
 													"distance": 172.01162751395617,
@@ -55560,670 +55560,28 @@
 				},
 				{
 					"_type": "UMLCollaboration",
-					"_id": "AAAAAAGFL1ErJ8uPQkw=",
+					"_id": "AAAAAAGFfAtsX1XQGZk=",
 					"_parent": {
 						"$ref": "AAAAAAGE4G0n9HMKScE="
 					},
-					"name": "Gia hạn thẻ",
+					"name": "Đăng ký thẻ Sequence",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
-							"_id": "AAAAAAGFL1ErJ8uQRRc=",
+							"_id": "AAAAAAGFfAtsX1XRYwY=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
-							"name": "Gia hạn thẻ",
+							"name": "Đăng ký thẻ Sequence",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
-									"_id": "AAAAAAGFL1ErJ8uRN2c=",
+									"_id": "AAAAAAGFfAtsX1XS2sE=",
 									"_parent": {
-										"$ref": "AAAAAAGFL1ErJ8uQRRc="
+										"$ref": "AAAAAAGFfAtsX1XRYwY="
 									},
-									"name": "Gia hạn thẻ",
-									"ownedViews": [
-										{
-											"_type": "UMLSeqLifelineView",
-											"_id": "AAAAAAGFL1ErJ8uSJo8=",
-											"_parent": {
-												"$ref": "AAAAAAGFL1ErJ8uRN2c="
-											},
-											"model": {
-												"$ref": "AAAAAAGFL1ErKsxF1PE="
-											},
-											"subViews": [
-												{
-													"_type": "UMLNameCompartmentView",
-													"_id": "AAAAAAGFL1ErJ8uTFPQ=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErJ8uSJo8="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxF1PE="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8uUyhY=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uTFPQ="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -168,
-															"height": 20
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8uVn4I=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uTFPQ="
-															},
-															"font": "Source Code Pro;20;1",
-															"left": 5,
-															"top": 87,
-															"width": 215.99972534179688,
-															"height": 20,
-															"text": ": Thủ Thư"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8uWaII=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uTFPQ="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -168,
-															"width": 215.99972534179688,
-															"height": 20,
-															"text": "(from Đăng ký thẻ)"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8uXsaM=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uTFPQ="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -168,
-															"height": 20,
-															"horizontalAlignment": 1
-														}
-													],
-													"font": "Source Code Pro;20;0",
-													"top": 80,
-													"width": 225.99972534179688,
-													"height": 32,
-													"stereotypeLabel": {
-														"$ref": "AAAAAAGFL1ErJ8uUyhY="
-													},
-													"nameLabel": {
-														"$ref": "AAAAAAGFL1ErJ8uVn4I="
-													},
-													"namespaceLabel": {
-														"$ref": "AAAAAAGFL1ErJ8uWaII="
-													},
-													"propertyLabel": {
-														"$ref": "AAAAAAGFL1ErJ8uXsaM="
-													}
-												},
-												{
-													"_type": "UMLLinePartView",
-													"_id": "AAAAAAGFL1ErJ8uYC1w=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErJ8uSJo8="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxF1PE="
-													},
-													"font": "Source Code Pro;20;0",
-													"left": 113,
-													"top": 112,
-													"width": 1,
-													"height": 1769
-												}
-											],
-											"font": "Source Code Pro;20;0",
-											"top": 40,
-											"width": 225.99972534179688,
-											"height": 1841,
-											"stereotypeDisplay": "icon",
-											"nameCompartment": {
-												"$ref": "AAAAAAGFL1ErJ8uTFPQ="
-											},
-											"linePart": {
-												"$ref": "AAAAAAGFL1ErJ8uYC1w="
-											}
-										},
-										{
-											"_type": "UMLSeqLifelineView",
-											"_id": "AAAAAAGFL1ErJ8uZ8m8=",
-											"_parent": {
-												"$ref": "AAAAAAGFL1ErJ8uRN2c="
-											},
-											"model": {
-												"$ref": "AAAAAAGFL1ErKsxGUNU="
-											},
-											"subViews": [
-												{
-													"_type": "UMLNameCompartmentView",
-													"_id": "AAAAAAGFL1ErJ8uavAA=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErJ8uZ8m8="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxGUNU="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8ub/4U=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uavAA="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -626,
-															"height": 20
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8ucuYs=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uavAA="
-															},
-															"font": "Source Code Pro;20;1",
-															"left": 197,
-															"top": 87,
-															"width": 383.99951171875,
-															"height": 20,
-															"text": ": Trang Quản lý độc Giả"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8uddTw=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uavAA="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -626,
-															"width": 215.99972534179688,
-															"height": 20,
-															"text": "(from Đăng ký thẻ)"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8ueDkw=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uavAA="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -626,
-															"height": 20,
-															"horizontalAlignment": 1
-														}
-													],
-													"font": "Source Code Pro;20;0",
-													"left": 192,
-													"top": 80,
-													"width": 393.99951171875,
-													"height": 32,
-													"stereotypeLabel": {
-														"$ref": "AAAAAAGFL1ErJ8ub/4U="
-													},
-													"nameLabel": {
-														"$ref": "AAAAAAGFL1ErJ8ucuYs="
-													},
-													"namespaceLabel": {
-														"$ref": "AAAAAAGFL1ErJ8uddTw="
-													},
-													"propertyLabel": {
-														"$ref": "AAAAAAGFL1ErJ8ueDkw="
-													}
-												},
-												{
-													"_type": "UMLLinePartView",
-													"_id": "AAAAAAGFL1ErJ8ufTmM=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErJ8uZ8m8="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxGUNU="
-													},
-													"font": "Source Code Pro;20;0",
-													"left": 389,
-													"top": 112,
-													"width": 1,
-													"height": 1769
-												}
-											],
-											"font": "Source Code Pro;20;0",
-											"left": 192,
-											"top": 40,
-											"width": 393.99951171875,
-											"height": 1841,
-											"stereotypeDisplay": "icon",
-											"nameCompartment": {
-												"$ref": "AAAAAAGFL1ErJ8uavAA="
-											},
-											"linePart": {
-												"$ref": "AAAAAAGFL1ErJ8ufTmM="
-											}
-										},
-										{
-											"_type": "UMLSeqLifelineView",
-											"_id": "AAAAAAGFL1ErJ8ugO9Q=",
-											"_parent": {
-												"$ref": "AAAAAAGFL1ErJ8uRN2c="
-											},
-											"model": {
-												"$ref": "AAAAAAGFL1ErKsxHc+U="
-											},
-											"subViews": [
-												{
-													"_type": "UMLNameCompartmentView",
-													"_id": "AAAAAAGFL1ErJ8uh8Hs=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErJ8ugO9Q="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxHc+U="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8ui4+o=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uh8Hs="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -1194,
-															"height": 20
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErJ8ujqnA=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uh8Hs="
-															},
-															"font": "Source Code Pro;20;1",
-															"left": 557,
-															"top": 87,
-															"width": 443.9994201660156,
-															"height": 20,
-															"text": ": Quản lý độc giả controller"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMukj5U=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uh8Hs="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -1194,
-															"width": 215.99972534179688,
-															"height": 20,
-															"text": "(from Đăng ký thẻ)"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMulnIY=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErJ8uh8Hs="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -1194,
-															"height": 20,
-															"horizontalAlignment": 1
-														}
-													],
-													"font": "Source Code Pro;20;0",
-													"left": 552,
-													"top": 80,
-													"width": 453.9994201660156,
-													"height": 32,
-													"stereotypeLabel": {
-														"$ref": "AAAAAAGFL1ErJ8ui4+o="
-													},
-													"nameLabel": {
-														"$ref": "AAAAAAGFL1ErJ8ujqnA="
-													},
-													"namespaceLabel": {
-														"$ref": "AAAAAAGFL1ErKMukj5U="
-													},
-													"propertyLabel": {
-														"$ref": "AAAAAAGFL1ErKMulnIY="
-													}
-												},
-												{
-													"_type": "UMLLinePartView",
-													"_id": "AAAAAAGFL1ErKMum6p8=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErJ8ugO9Q="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxHc+U="
-													},
-													"font": "Source Code Pro;20;0",
-													"left": 779,
-													"top": 112,
-													"width": 1,
-													"height": 1769
-												}
-											],
-											"font": "Source Code Pro;20;0",
-											"left": 552,
-											"top": 40,
-											"width": 453.9994201660156,
-											"height": 1841,
-											"stereotypeDisplay": "icon",
-											"nameCompartment": {
-												"$ref": "AAAAAAGFL1ErJ8uh8Hs="
-											},
-											"linePart": {
-												"$ref": "AAAAAAGFL1ErKMum6p8="
-											}
-										},
-										{
-											"_type": "UMLSeqLifelineView",
-											"_id": "AAAAAAGFL1ErKMun0Hc=",
-											"_parent": {
-												"$ref": "AAAAAAGFL1ErJ8uRN2c="
-											},
-											"model": {
-												"$ref": "AAAAAAGFL1ErKsxI810="
-											},
-											"subViews": [
-												{
-													"_type": "UMLNameCompartmentView",
-													"_id": "AAAAAAGFL1ErKMuoKE0=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErKMun0Hc="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxI810="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMupZ9M=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuoKE0="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -1872,
-															"height": 20
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMuq2Y4=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuoKE0="
-															},
-															"font": "Source Code Pro;20;1",
-															"left": 965,
-															"top": 87,
-															"width": 203.99974060058594,
-															"height": 20,
-															"text": ": DOCGIA"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMurt1Q=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuoKE0="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -1872,
-															"width": 215.99972534179688,
-															"height": 20,
-															"text": "(from Đăng ký thẻ)"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMusceg=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuoKE0="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -1872,
-															"height": 20,
-															"horizontalAlignment": 1
-														}
-													],
-													"font": "Source Code Pro;20;0",
-													"left": 960,
-													"top": 80,
-													"width": 213.99974060058594,
-													"height": 32,
-													"stereotypeLabel": {
-														"$ref": "AAAAAAGFL1ErKMupZ9M="
-													},
-													"nameLabel": {
-														"$ref": "AAAAAAGFL1ErKMuq2Y4="
-													},
-													"namespaceLabel": {
-														"$ref": "AAAAAAGFL1ErKMurt1Q="
-													},
-													"propertyLabel": {
-														"$ref": "AAAAAAGFL1ErKMusceg="
-													}
-												},
-												{
-													"_type": "UMLLinePartView",
-													"_id": "AAAAAAGFL1ErKMutWMU=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErKMun0Hc="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxI810="
-													},
-													"font": "Source Code Pro;20;0",
-													"left": 1067,
-													"top": 112,
-													"width": 1,
-													"height": 1793
-												}
-											],
-											"font": "Source Code Pro;20;0",
-											"left": 960,
-											"top": 40,
-											"width": 213.99974060058594,
-											"height": 1865,
-											"stereotypeDisplay": "icon",
-											"nameCompartment": {
-												"$ref": "AAAAAAGFL1ErKMuoKE0="
-											},
-											"linePart": {
-												"$ref": "AAAAAAGFL1ErKMutWMU="
-											}
-										},
-										{
-											"_type": "UMLSeqLifelineView",
-											"_id": "AAAAAAGFL1ErKMuuocA=",
-											"_parent": {
-												"$ref": "AAAAAAGFL1ErJ8uRN2c="
-											},
-											"model": {
-												"$ref": "AAAAAAGFL1ErKsxJ4fY="
-											},
-											"subViews": [
-												{
-													"_type": "UMLNameCompartmentView",
-													"_id": "AAAAAAGFL1ErKMuvRJU=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErKMuuocA="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxJ4fY="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMuw9pc=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuvRJU="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -2130,
-															"height": 20
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMuxh2Y=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuvRJU="
-															},
-															"font": "Source Code Pro;20;1",
-															"left": 1173,
-															"top": 87,
-															"width": 239.99969482421875,
-															"height": 20,
-															"text": ": THEDOCGIA"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMuyKgg=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuvRJU="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -2130,
-															"width": 215.99972534179688,
-															"height": 20,
-															"text": "(from Đăng ký thẻ)"
-														},
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGFL1ErKMuzc6k=",
-															"_parent": {
-																"$ref": "AAAAAAGFL1ErKMuvRJU="
-															},
-															"visible": false,
-															"font": "Source Code Pro;20;0",
-															"left": -2130,
-															"height": 20,
-															"horizontalAlignment": 1
-														}
-													],
-													"font": "Source Code Pro;20;0",
-													"left": 1168,
-													"top": 80,
-													"width": 249.99969482421875,
-													"height": 32,
-													"stereotypeLabel": {
-														"$ref": "AAAAAAGFL1ErKMuw9pc="
-													},
-													"nameLabel": {
-														"$ref": "AAAAAAGFL1ErKMuxh2Y="
-													},
-													"namespaceLabel": {
-														"$ref": "AAAAAAGFL1ErKMuyKgg="
-													},
-													"propertyLabel": {
-														"$ref": "AAAAAAGFL1ErKMuzc6k="
-													}
-												},
-												{
-													"_type": "UMLLinePartView",
-													"_id": "AAAAAAGFL1ErKMu0luE=",
-													"_parent": {
-														"$ref": "AAAAAAGFL1ErKMuuocA="
-													},
-													"model": {
-														"$ref": "AAAAAAGFL1ErKsxJ4fY="
-													},
-													"font": "Source Code Pro;20;0",
-													"left": 1293,
-													"top": 112,
-													"width": 1,
-													"height": 1793
-												}
-											],
-											"font": "Source Code Pro;20;0",
-											"left": 1168,
-											"top": 40,
-											"width": 249.99969482421875,
-											"height": 1865,
-											"stereotypeDisplay": "icon",
-											"nameCompartment": {
-												"$ref": "AAAAAAGFL1ErKMuvRJU="
-											},
-											"linePart": {
-												"$ref": "AAAAAAGFL1ErKMu0luE="
-											}
-										}
-									],
+									"name": "Đăng ký thẻ Sequence",
 									"showActivation": false
-								}
-							],
-							"participants": [
-								{
-									"_type": "UMLLifeline",
-									"_id": "AAAAAAGFL1ErKsxF1PE=",
-									"_parent": {
-										"$ref": "AAAAAAGFL1ErJ8uQRRc="
-									},
-									"represent": {
-										"$ref": "AAAAAAGFL1ErKsxX4Iw="
-									},
-									"isMultiInstance": false
-								},
-								{
-									"_type": "UMLLifeline",
-									"_id": "AAAAAAGFL1ErKsxGUNU=",
-									"_parent": {
-										"$ref": "AAAAAAGFL1ErJ8uQRRc="
-									},
-									"represent": {
-										"$ref": "AAAAAAGFL1ErKsxY6Jk="
-									},
-									"isMultiInstance": false
-								},
-								{
-									"_type": "UMLLifeline",
-									"_id": "AAAAAAGFL1ErKsxHc+U=",
-									"_parent": {
-										"$ref": "AAAAAAGFL1ErJ8uQRRc="
-									},
-									"represent": {
-										"$ref": "AAAAAAGFL1ErKsxZgs4="
-									},
-									"isMultiInstance": false
-								},
-								{
-									"_type": "UMLLifeline",
-									"_id": "AAAAAAGFL1ErKsxI810=",
-									"_parent": {
-										"$ref": "AAAAAAGFL1ErJ8uQRRc="
-									},
-									"represent": {
-										"$ref": "AAAAAAGFL1ErKsxax8M="
-									},
-									"isMultiInstance": false
-								},
-								{
-									"_type": "UMLLifeline",
-									"_id": "AAAAAAGFL1ErKsxJ4fY=",
-									"_parent": {
-										"$ref": "AAAAAAGFL1ErJ8uQRRc="
-									},
-									"represent": {
-										"$ref": "AAAAAAGFL1ErKsxbbB4="
-									},
-									"isMultiInstance": false
 								}
 							]
 						}
@@ -56231,9 +55589,9 @@
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxTM2A=",
+							"_id": "AAAAAAGFfAtsYlZesqw=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role1",
 							"type": {
@@ -56242,9 +55600,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxUWwo=",
+							"_id": "AAAAAAGFfAtsYlZfzmM=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role2",
 							"type": {
@@ -56253,9 +55611,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxV3gs=",
+							"_id": "AAAAAAGFfAtsYlZg398=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role3",
 							"type": {
@@ -56264,9 +55622,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxW9rA=",
+							"_id": "AAAAAAGFfAtsYlZh25E=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role4",
 							"type": {
@@ -56275,9 +55633,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxX4Iw=",
+							"_id": "AAAAAAGFfAtsYlZiLSs=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role5",
 							"type": {
@@ -56286,9 +55644,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxY6Jk=",
+							"_id": "AAAAAAGFfAtsYlZjSe4=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role6",
 							"type": {
@@ -56297,9 +55655,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxZgs4=",
+							"_id": "AAAAAAGFfAtsYlZk0fw=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role7",
 							"type": {
@@ -56308,9 +55666,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxax8M=",
+							"_id": "AAAAAAGFfAtsYlZl5N4=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role8",
 							"type": {
@@ -56319,9 +55677,9 @@
 						},
 						{
 							"_type": "UMLAttribute",
-							"_id": "AAAAAAGFL1ErKsxbbB4=",
+							"_id": "AAAAAAGFfAtsYlZmiLw=",
 							"_parent": {
-								"$ref": "AAAAAAGFL1ErJ8uPQkw="
+								"$ref": "AAAAAAGFfAtsX1XQGZk="
 							},
 							"name": "Role9",
 							"type": {
