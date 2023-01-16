@@ -8747,7 +8747,7 @@
 									"font": "Arial;18;0",
 									"left": 325.5,
 									"top": 349.5,
-									"width": 141.0361328125,
+									"width": 140,
 									"height": 30,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFtoWNLPxvoQE="
@@ -9041,7 +9041,7 @@
 									"font": "Arial;18;0",
 									"left": 389,
 									"top": 461.5,
-									"width": 138.07421875,
+									"width": 137,
 									"height": 30,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFtoXE3QK8Ito="
@@ -23750,9 +23750,9 @@
 														"$ref": "AAAAAAGE32iiZFDs/3k="
 													},
 													"font": "Arial;18;0",
-													"left": 412.0224609375,
+													"left": 410.0009765625,
 													"top": 181,
-													"width": 110.0546875,
+													"width": 99.96484375,
 													"height": 18,
 													"text": "Thêm độc giả"
 												},
@@ -23765,7 +23765,7 @@
 													"font": "Arial;18;1",
 													"left": 381,
 													"top": 181,
-													"width": 26.0224609375,
+													"width": 24.0009765625,
 													"height": 18,
 													"text": "opt"
 												},
@@ -23851,9 +23851,9 @@
 														"$ref": "AAAAAAGE32kBVFEGmAI="
 													},
 													"font": "Arial;18;0",
-													"left": 449.505859375,
+													"left": 448.4775390625,
 													"top": 221,
-													"width": 786.494140625,
+													"width": 787.5224609375,
 													"height": 18,
 													"text": ": sequence Thêm độc giả"
 												},
@@ -23866,7 +23866,7 @@
 													"font": "Arial;18;1",
 													"left": 405,
 													"top": 221,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -23900,9 +23900,9 @@
 														"$ref": "AAAAAAGE32wR/VE2Cpc="
 													},
 													"font": "Arial;18;0",
-													"left": 420.0224609375,
+													"left": 418.0009765625,
 													"top": 381,
-													"width": 96.0712890625,
+													"width": 87.9677734375,
 													"height": 18,
 													"text": "Xóa độc giả"
 												},
@@ -23915,7 +23915,7 @@
 													"font": "Arial;18;1",
 													"left": 389,
 													"top": 381,
-													"width": 26.0224609375,
+													"width": 24.0009765625,
 													"height": 18,
 													"text": "opt"
 												},
@@ -24001,9 +24001,9 @@
 														"$ref": "AAAAAAGE32yWw1FQkfY="
 													},
 													"font": "Arial;18;0",
-													"left": 457.505859375,
+													"left": 456.4775390625,
 													"top": 429,
-													"width": 786.494140625,
+													"width": 787.5224609375,
 													"height": 18,
 													"text": ": sequence Xóa độc giả"
 												},
@@ -24016,7 +24016,7 @@
 													"font": "Arial;18;1",
 													"left": 413,
 													"top": 429,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -24050,9 +24050,9 @@
 														"$ref": "AAAAAAGE321R+VFdGo8="
 													},
 													"font": "Arial;18;0",
-													"left": 412.0224609375,
+													"left": 410.0009765625,
 													"top": 565,
-													"width": 137.0986328125,
+													"width": 122.46484375,
 													"height": 18,
 													"text": "Cập nhật độc giả"
 												},
@@ -24065,7 +24065,7 @@
 													"font": "Arial;18;1",
 													"left": 381,
 													"top": 565,
-													"width": 26.0224609375,
+													"width": 24.0009765625,
 													"height": 18,
 													"text": "opt"
 												},
@@ -24151,9 +24151,9 @@
 														"$ref": "AAAAAAGE322k4VF1TYU="
 													},
 													"font": "Arial;18;0",
-													"left": 449.505859375,
+													"left": 448.4775390625,
 													"top": 605,
-													"width": 802.494140625,
+													"width": 803.5224609375,
 													"height": 18,
 													"text": ": sequence Tra cứu độc giả"
 												},
@@ -24166,7 +24166,7 @@
 													"font": "Arial;18;1",
 													"left": 405,
 													"top": 605,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -24200,9 +24200,9 @@
 														"$ref": "AAAAAAGE3245B1GCXkc="
 													},
 													"font": "Arial;18;0",
-													"left": 412.0224609375,
+													"left": 410.0009765625,
 													"top": 733,
-													"width": 126.4375,
+													"width": 113.5703125,
 													"height": 18,
 													"text": "Tra cứu độc giả"
 												},
@@ -24215,7 +24215,7 @@
 													"font": "Arial;18;1",
 													"left": 381,
 													"top": 733,
-													"width": 26.0224609375,
+													"width": 24.0009765625,
 													"height": 18,
 													"text": "opt"
 												},
@@ -24301,9 +24301,9 @@
 														"$ref": "AAAAAAGE3252W1GaeEg="
 													},
 													"font": "Arial;18;0",
-													"left": 441.505859375,
+													"left": 440.4775390625,
 													"top": 781,
-													"width": 818.494140625,
+													"width": 819.5224609375,
 													"height": 18,
 													"text": ": sequence Tra cứu độc giả"
 												},
@@ -24316,7 +24316,7 @@
 													"font": "Arial;18;1",
 													"left": 397,
 													"top": 781,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -35256,7 +35256,7 @@
 													},
 													"visible": false,
 													"font": "Arial;18;0",
-													"left": 94.0107421875,
+													"left": 92.9912109375,
 													"top": 293,
 													"width": 1,
 													"height": 18
@@ -35270,7 +35270,7 @@
 													"font": "Arial;18;1",
 													"left": 69,
 													"top": 293,
-													"width": 20.0107421875,
+													"width": 18.9912109375,
 													"height": 18,
 													"text": "alt"
 												},
@@ -35303,7 +35303,7 @@
 																	"font": "Arial;18;0",
 																	"left": 84,
 																	"top": 331,
-																	"width": 110.07421875,
+																	"width": 100.951171875,
 																	"height": 18,
 																	"text": "[Thẻ còn hạn]"
 																}
@@ -35336,7 +35336,7 @@
 																	"font": "Arial;18;0",
 																	"left": 84,
 																	"top": 454,
-																	"width": 106.0751953125,
+																	"width": 96.9521484375,
 																	"height": 18,
 																	"text": "[Thẻ hết hạn]"
 																}
@@ -35391,7 +35391,7 @@
 													},
 													"visible": false,
 													"font": "Arial;18;0",
-													"left": 126.0107421875,
+													"left": 124.9912109375,
 													"top": 605,
 													"width": 1,
 													"height": 18
@@ -35405,7 +35405,7 @@
 													"font": "Arial;18;1",
 													"left": 101,
 													"top": 605,
-													"width": 20.0107421875,
+													"width": 18.9912109375,
 													"height": 18,
 													"text": "alt"
 												},
@@ -35438,7 +35438,7 @@
 																	"font": "Arial;18;0",
 																	"left": 116,
 																	"top": 643,
-																	"width": 67.0341796875,
+																	"width": 65.4873046875,
 																	"height": 18,
 																	"text": "[Đồng ý]"
 																}
@@ -35471,7 +35471,7 @@
 																	"font": "Arial;18;0",
 																	"left": 116,
 																	"top": 1142,
-																	"width": 88.875,
+																	"width": 83.7421875,
 																	"height": 18,
 																	"text": "[Ngược lại]"
 																}
@@ -35526,7 +35526,7 @@
 													},
 													"visible": false,
 													"font": "Arial;18;0",
-													"left": 158.0107421875,
+													"left": 156.9912109375,
 													"top": 693,
 													"width": 1,
 													"height": 18
@@ -35540,7 +35540,7 @@
 													"font": "Arial;18;1",
 													"left": 133,
 													"top": 693,
-													"width": 20.0107421875,
+													"width": 18.9912109375,
 													"height": 18,
 													"text": "alt"
 												},
@@ -35573,7 +35573,7 @@
 																	"font": "Arial;18;0",
 																	"left": 148,
 																	"top": 731,
-																	"width": 185.1328125,
+																	"width": 170.947265625,
 																	"height": 18,
 																	"text": "[Độc giả đủ thành niên]"
 																}
@@ -35606,7 +35606,7 @@
 																	"font": "Arial;18;0",
 																	"left": 148,
 																	"top": 1022,
-																	"width": 88.875,
+																	"width": 83.7421875,
 																	"height": 18,
 																	"text": "[Ngược lại]"
 																}
@@ -36466,9 +36466,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 463,
-													"top": 470,
+													"top": 479,
 													"width": 246.1995849609375,
-													"height": 36,
+													"height": 18,
 													"alpha": 1.5878876777320132,
 													"distance": 117.01709276853532,
 													"hostEdge": {
@@ -38902,7 +38902,7 @@
 													},
 													"visible": false,
 													"font": "Arial;18;0",
-													"left": 46.0107421875,
+													"left": 44.9912109375,
 													"top": 517,
 													"width": 1,
 													"height": 18
@@ -38916,7 +38916,7 @@
 													"font": "Arial;18;1",
 													"left": 21,
 													"top": 517,
-													"width": 20.0107421875,
+													"width": 18.9912109375,
 													"height": 18,
 													"text": "alt"
 												},
@@ -38949,7 +38949,7 @@
 																	"font": "Arial;18;0",
 																	"left": 36,
 																	"top": 555,
-																	"width": 71.3671875,
+																	"width": 67.833984375,
 																	"height": 18,
 																	"text": "[Trên 18]"
 																}
@@ -38982,7 +38982,7 @@
 																	"font": "Arial;18;0",
 																	"left": 36,
 																	"top": 856,
-																	"width": 75.8759765625,
+																	"width": 71.7626953125,
 																	"height": 18,
 																	"text": "[Dưới 18]"
 																}
@@ -39601,9 +39601,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 720,
-													"top": 1295,
+													"top": 1304,
 													"width": 315.3995361328125,
-													"height": 36,
+													"height": 18,
 													"alpha": 1.7761906993457302,
 													"distance": 122.57650672131263,
 													"hostEdge": {
@@ -40048,7 +40048,7 @@
 													},
 													"visible": false,
 													"font": "Arial;18;0",
-													"left": 68.0224609375,
+													"left": 66.0009765625,
 													"top": 1501,
 													"width": 1,
 													"height": 18
@@ -40062,7 +40062,7 @@
 													"font": "Arial;18;1",
 													"left": 37,
 													"top": 1501,
-													"width": 26.0224609375,
+													"width": 24.0009765625,
 													"height": 18,
 													"text": "opt"
 												},
@@ -40095,7 +40095,7 @@
 																	"font": "Arial;18;0",
 																	"left": 52,
 																	"top": 1539,
-																	"width": 147.884765625,
+																	"width": 134.96484375,
 																	"height": 18,
 																	"text": "[Xác nhận mở thẻ]"
 																}
@@ -40128,7 +40128,7 @@
 																	"font": "Arial;18;0",
 																	"left": 52,
 																	"top": 1816,
-																	"width": 88.875,
+																	"width": 83.7421875,
 																	"height": 18,
 																	"text": "[Ngược lại]"
 																}
@@ -40183,7 +40183,7 @@
 													},
 													"visible": false,
 													"font": "Arial;18;0",
-													"left": 70.0107421875,
+													"left": 68.9912109375,
 													"top": 965,
 													"width": 1,
 													"height": 18
@@ -40197,7 +40197,7 @@
 													"font": "Arial;18;1",
 													"left": 45,
 													"top": 965,
-													"width": 20.0107421875,
+													"width": 18.9912109375,
 													"height": 18,
 													"text": "alt"
 												},
@@ -40230,7 +40230,7 @@
 																	"font": "Arial;18;0",
 																	"left": 60,
 																	"top": 1003,
-																	"width": 159.9521484375,
+																	"width": 145.7490234375,
 																	"height": 18,
 																	"text": "[Có người bảo lãnh]"
 																}
@@ -40263,7 +40263,7 @@
 																	"font": "Arial;18;0",
 																	"left": 60,
 																	"top": 1224,
-																	"width": 213.0029296875,
+																	"width": 195.2314453125,
 																	"height": 18,
 																	"text": "[Không có người bảo lãnh]"
 																}
@@ -40888,9 +40888,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 760,
-													"top": 1870,
+													"top": 1879,
 													"width": 243.599609375,
-													"height": 36,
+													"height": 18,
 													"alpha": 1.5869229593381429,
 													"distance": 124.01612798341996,
 													"hostEdge": {
@@ -42326,9 +42326,9 @@
 														"$ref": "AAAAAAGFiEE3eTPeBBI="
 													},
 													"font": "Arial;18;0",
-													"left": 52.0224609375,
+													"left": 50.0009765625,
 													"top": 261,
-													"width": 130.09375,
+													"width": 116.453125,
 													"height": 18,
 													"text": "Báo cáo độc giả"
 												},
@@ -42341,7 +42341,7 @@
 													"font": "Arial;18;1",
 													"left": 21,
 													"top": 261,
-													"width": 26.0224609375,
+													"width": 24.0009765625,
 													"height": 18,
 													"text": "opt"
 												},
@@ -42427,9 +42427,9 @@
 														"$ref": "AAAAAAGFiEOV6DP4/mI="
 													},
 													"font": "Arial;18;0",
-													"left": 56.021484375,
+													"left": 50.994140625,
 													"top": 469,
-													"width": 110.072265625,
+													"width": 95.95703125,
 													"height": 18,
 													"text": "Báo cáo sách"
 												},
@@ -42442,7 +42442,7 @@
 													"font": "Arial;18;1",
 													"left": 21,
 													"top": 469,
-													"width": 30.021484375,
+													"width": 24.994140625,
 													"height": 18,
 													"text": "seq"
 												},
@@ -42528,9 +42528,9 @@
 														"$ref": "AAAAAAGFiEPN3zQQGeA="
 													},
 													"font": "Arial;18;0",
-													"left": 56.021484375,
+													"left": 50.994140625,
 													"top": 749,
-													"width": 160.1171875,
+													"width": 142.943359375,
 													"height": 18,
 													"text": "Báo cáo thẻ độc giả"
 												},
@@ -42543,7 +42543,7 @@
 													"font": "Arial;18;1",
 													"left": 21,
 													"top": 749,
-													"width": 30.021484375,
+													"width": 24.994140625,
 													"height": 18,
 													"text": "seq"
 												},
@@ -42629,9 +42629,9 @@
 														"$ref": "AAAAAAGFiEzeSkeXAzo="
 													},
 													"font": "Arial;18;0",
-													"left": 56.021484375,
+													"left": 50.994140625,
 													"top": 997,
-													"width": 213.9501953125,
+													"width": 187.7060546875,
 													"height": 18,
 													"text": "Báo cáo mượn và trả sách"
 												},
@@ -42644,7 +42644,7 @@
 													"font": "Arial;18;1",
 													"left": 21,
 													"top": 997,
-													"width": 30.021484375,
+													"width": 24.994140625,
 													"height": 18,
 													"text": "seq"
 												},
@@ -42960,9 +42960,9 @@
 														"$ref": "AAAAAAGFiGsH0UgK+ao="
 													},
 													"font": "Arial;18;0",
-													"left": 105.505859375,
+													"left": 104.4775390625,
 													"top": 309,
-													"width": 2018.494140625,
+													"width": 2019.5224609375,
 													"height": 18,
 													"text": ": Sequence Báo cáo độc giả"
 												},
@@ -42975,7 +42975,7 @@
 													"font": "Arial;18;1",
 													"left": 61,
 													"top": 309,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -43009,9 +43009,9 @@
 														"$ref": "AAAAAAGFiGshv0gV4iw="
 													},
 													"font": "Arial;18;0",
-													"left": 113.505859375,
+													"left": 112.4775390625,
 													"top": 533,
-													"width": 2338.494140625,
+													"width": 2339.5224609375,
 													"height": 18,
 													"text": ": Sequence Báo cáo sách"
 												},
@@ -43024,7 +43024,7 @@
 													"font": "Arial;18;1",
 													"left": 69,
 													"top": 533,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -43058,9 +43058,9 @@
 														"$ref": "AAAAAAGFiGszL0ggjD0="
 													},
 													"font": "Arial;18;0",
-													"left": 113.505859375,
+													"left": 112.4775390625,
 													"top": 813,
-													"width": 1818.494140625,
+													"width": 1819.5224609375,
 													"height": 18,
 													"text": ": Sequence báo cáo thẻ độc giả"
 												},
@@ -43073,7 +43073,7 @@
 													"font": "Arial;18;1",
 													"left": 69,
 													"top": 813,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -43107,9 +43107,9 @@
 														"$ref": "AAAAAAGFiGtVr0grTJg="
 													},
 													"font": "Arial;18;0",
-													"left": 113.505859375,
+													"left": 112.4775390625,
 													"top": 1053,
-													"width": 1802.494140625,
+													"width": 1803.5224609375,
 													"height": 18,
 													"text": ": Sequence Báo cáo mượn và trả sách"
 												},
@@ -43122,7 +43122,7 @@
 													"font": "Arial;18;1",
 													"left": 69,
 													"top": 1053,
-													"width": 22.005859375,
+													"width": 20.9775390625,
 													"height": 18,
 													"text": "ref"
 												}
@@ -44764,9 +44764,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 148,
-													"top": 150,
+													"top": 159,
 													"width": 159,
-													"height": 54,
+													"height": 36,
 													"alpha": 1.5385491221143237,
 													"distance": 31.016124838541646,
 													"hostEdge": {
@@ -46543,9 +46543,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 871,
-													"top": 247,
+													"top": 256,
 													"width": 114,
-													"height": 90,
+													"height": 72,
 													"alpha": 1.8000272231909704,
 													"distance": 61.61168720299745,
 													"hostEdge": {
@@ -46656,9 +46656,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 886,
-													"top": 367,
+													"top": 376,
 													"width": 98,
-													"height": 90,
+													"height": 72,
 													"alpha": 1.205593926063321,
 													"distance": 72.80109889280519,
 													"hostEdge": {
@@ -50260,9 +50260,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 1215,
-													"top": 255,
+													"top": 264,
 													"width": 130,
-													"height": 54,
+													"height": 36,
 													"alpha": 1.660442033097599,
 													"distance": 89.35882720806042,
 													"hostEdge": {
@@ -51286,9 +51286,9 @@
 													},
 													"font": "Arial;18;0",
 													"left": 687,
-													"top": 646,
+													"top": 655,
 													"width": 141.19964599609375,
-													"height": 72,
+													"height": 54,
 													"alpha": 1.426353761369426,
 													"distance": 111.15754585272202,
 													"hostEdge": {
@@ -90613,7 +90613,7 @@
 													"left": 149,
 													"top": 863,
 													"width": 167,
-													"height": 36,
+													"height": 18,
 													"text": "Chọn độc giả cần xóa",
 													"wordWrap": true
 												},
@@ -90649,7 +90649,7 @@
 											"left": 144,
 											"top": 856,
 											"width": 177,
-											"height": 48,
+											"height": 30,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGEZ061puTVNa0="
 											},
@@ -93511,7 +93511,7 @@
 													"left": 765,
 													"top": 1439,
 													"width": 191.9970703125,
-													"height": 36,
+													"height": 18,
 													"text": "Tìm thông tin tìm kiếm",
 													"wordWrap": true
 												},
@@ -93547,7 +93547,7 @@
 											"left": 760,
 											"top": 1432,
 											"width": 201.9970703125,
-											"height": 48,
+											"height": 30,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGEZ17EdOf91Qo="
 											},
@@ -93919,7 +93919,7 @@
 													"left": 453,
 													"top": 1511,
 													"width": 127,
-													"height": 54,
+													"height": 36,
 													"text": "Thông báo không tìm thấy",
 													"wordWrap": true
 												},
@@ -93955,7 +93955,7 @@
 											"left": 448,
 											"top": 1504,
 											"width": 137,
-											"height": 66,
+											"height": 48,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGEZ1+kYuhKYKY="
 											},
@@ -96798,7 +96798,7 @@
 													"left": 477,
 													"top": 484,
 													"width": 119,
-													"height": 45,
+													"height": 30,
 													"text": "Vẽ biểu đồ thống kê các số liệu",
 													"wordWrap": true
 												},
@@ -96834,7 +96834,7 @@
 											"left": 472,
 											"top": 477,
 											"width": 129,
-											"height": 57,
+											"height": 42,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGEZ3OQH7MXMlU="
 											},
@@ -100164,7 +100164,7 @@
 													"left": 277,
 													"top": 367,
 													"width": 111,
-													"height": 39,
+													"height": 26,
 													"text": "Hiển thị thông tin độc giả trên 18 tuổi",
 													"wordWrap": true
 												},
@@ -100200,7 +100200,7 @@
 											"left": 272,
 											"top": 360,
 											"width": 121,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGEw/jyLhSHigI="
 											},
@@ -100474,9 +100474,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 207,
-											"top": 553,
+											"top": 559,
 											"width": 48,
-											"height": 39,
+											"height": 26,
 											"alpha": 1.568052452666922,
 											"distance": 28.0178514522438,
 											"hostEdge": {
@@ -108064,7 +108064,7 @@
 													"left": 365,
 													"top": 759,
 													"width": 127,
-													"height": 45,
+													"height": 30,
 													"text": "Tìm độ tuổi mượn nhiều sách nhất",
 													"wordWrap": true
 												},
@@ -108100,7 +108100,7 @@
 											"left": 360,
 											"top": 752,
 											"width": 137,
-											"height": 57,
+											"height": 42,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGFhxPLQCTSiqs="
 											},
@@ -111755,9 +111755,9 @@
 											},
 											"font": "Arial;15;0",
 											"left": 259,
-											"top": 330,
+											"top": 338,
 											"width": 89,
-											"height": 30,
+											"height": 15,
 											"alpha": 1.7033476244915557,
 											"distance": 60.530983801686226,
 											"hostEdge": {
@@ -112483,7 +112483,7 @@
 													"left": 189,
 													"top": 407,
 													"width": 103,
-													"height": 60,
+													"height": 45,
 													"text": "Chọn tháng hoặc năm muốn thống kê",
 													"wordWrap": true
 												},
@@ -112519,7 +112519,7 @@
 											"left": 184,
 											"top": 400,
 											"width": 113,
-											"height": 72,
+											"height": 57,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGFhtDt5xoshtA="
 											},
@@ -114919,7 +114919,7 @@
 													"left": 189,
 													"top": 407,
 													"width": 103,
-													"height": 60,
+													"height": 45,
 													"text": "Chọn tháng hoặc năm muốn thống kê",
 													"wordWrap": true
 												},
@@ -114955,7 +114955,7 @@
 											"left": 184,
 											"top": 400,
 											"width": 113,
-											"height": 72,
+											"height": 57,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGFiJqMWXC1APY="
 											},
@@ -116813,7 +116813,7 @@
 											"distance": 20
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"containerChangeable": true,
 									"left": 248,
 									"top": 104,
@@ -116856,7 +116856,7 @@
 														"$ref": "AAAAAAGFi1yhxtJ+2e8="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": -16,
 													"height": 18
 												},
@@ -116866,7 +116866,7 @@
 													"_parent": {
 														"$ref": "AAAAAAGFi1yhxtJ+2e8="
 													},
-													"font": "Source Code Pro;18;1",
+													"font": "Arial;18;1",
 													"left": 213,
 													"top": 223,
 													"width": 87,
@@ -116880,7 +116880,7 @@
 														"$ref": "AAAAAAGFi1yhxtJ+2e8="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": -16,
 													"width": 75.59991455078125,
 													"height": 18,
@@ -116893,13 +116893,13 @@
 														"$ref": "AAAAAAGFi1yhxtJ+2e8="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": -16,
 													"height": 18,
 													"horizontalAlignment": 1
 												}
 											],
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 208,
 											"top": 216,
 											"width": 97,
@@ -116927,7 +116927,7 @@
 												"$ref": "AAAAAAGFi1yhxdJ862w="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": -8,
 											"width": 10,
 											"height": 10
@@ -116942,7 +116942,7 @@
 												"$ref": "AAAAAAGFi1yhxdJ862w="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": -8,
 											"width": 10,
 											"height": 10
@@ -116956,13 +116956,13 @@
 											"model": {
 												"$ref": "AAAAAAGFi1yhxdJ862w="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 208,
 											"top": 246,
 											"width": 97
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"containerChangeable": true,
 									"left": 208,
 									"top": 216,
@@ -117055,7 +117055,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi1yhxtJ9JMA="
 									},
@@ -117102,7 +117102,7 @@
 														"$ref": "AAAAAAGFi12jZdK5iew="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"height": 18
 												},
 												{
@@ -117111,7 +117111,7 @@
 													"_parent": {
 														"$ref": "AAAAAAGFi12jZdK5iew="
 													},
-													"font": "Source Code Pro;18;1",
+													"font": "Arial;18;1",
 													"left": 789,
 													"top": 231,
 													"width": 151.1998291015625,
@@ -117125,7 +117125,7 @@
 														"$ref": "AAAAAAGFi12jZdK5iew="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"width": 75.59991455078125,
 													"height": 18,
 													"text": "(from )"
@@ -117137,12 +117137,12 @@
 														"$ref": "AAAAAAGFi12jZdK5iew="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"height": 18,
 													"horizontalAlignment": 1
 												}
 											],
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 784,
 											"top": 224,
 											"width": 161.1998291015625,
@@ -117170,7 +117170,7 @@
 												"$ref": "AAAAAAGFi12jZdK3QsI="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"width": 10,
 											"height": 10
 										},
@@ -117184,7 +117184,7 @@
 												"$ref": "AAAAAAGFi12jZdK3QsI="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"width": 10,
 											"height": 10
 										},
@@ -117197,13 +117197,13 @@
 											"model": {
 												"$ref": "AAAAAAGFi12jZdK3QsI="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 784,
 											"top": 254,
 											"width": 161.1998291015625
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"containerChangeable": true,
 									"left": 784,
 									"top": 224,
@@ -117249,7 +117249,7 @@
 														"$ref": "AAAAAAGFi13qLdLgy5M="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": 32,
 													"top": -32,
 													"height": 18
@@ -117260,10 +117260,10 @@
 													"_parent": {
 														"$ref": "AAAAAAGFi13qLdLgy5M="
 													},
-													"font": "Source Code Pro;18;1",
+													"font": "Arial;18;1",
 													"left": 813,
 													"top": 503,
-													"width": 97.19989013671875,
+													"width": 99.0263671875,
 													"height": 18,
 													"text": "Tạm ngưng"
 												},
@@ -117274,7 +117274,7 @@
 														"$ref": "AAAAAAGFi13qLdLgy5M="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": 32,
 													"top": -32,
 													"width": 75.59991455078125,
@@ -117288,17 +117288,17 @@
 														"$ref": "AAAAAAGFi13qLdLgy5M="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": 32,
 													"top": -32,
 													"height": 18,
 													"horizontalAlignment": 1
 												}
 											],
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 808,
 											"top": 496,
-											"width": 107.19989013671875,
+											"width": 109.0263671875,
 											"height": 30,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGFi13qLdLhzDI="
@@ -117323,7 +117323,7 @@
 												"$ref": "AAAAAAGFi13qLdLekHY="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 16,
 											"top": -16,
 											"width": 10,
@@ -117339,7 +117339,7 @@
 												"$ref": "AAAAAAGFi13qLdLekHY="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 16,
 											"top": -16,
 											"width": 10,
@@ -117354,17 +117354,17 @@
 											"model": {
 												"$ref": "AAAAAAGFi13qLdLekHY="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 808,
 											"top": 526,
-											"width": 107.19989013671875
+											"width": 109.0263671875
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"containerChangeable": true,
 									"left": 808,
 									"top": 496,
-									"width": 107.19989013671875,
+									"width": 109.0263671875,
 									"height": 40,
 									"nameCompartment": {
 										"$ref": "AAAAAAGFi13qLdLgy5M="
@@ -117406,7 +117406,7 @@
 														"$ref": "AAAAAAGFi15r9NMHg5o="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": -16,
 													"top": 16,
 													"height": 18
@@ -117417,7 +117417,7 @@
 													"_parent": {
 														"$ref": "AAAAAAGFi15r9NMHg5o="
 													},
-													"font": "Source Code Pro;18;1",
+													"font": "Arial;18;1",
 													"left": 213,
 													"top": 503,
 													"width": 78,
@@ -117431,7 +117431,7 @@
 														"$ref": "AAAAAAGFi15r9NMHg5o="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": -16,
 													"top": 16,
 													"width": 75.59991455078125,
@@ -117445,14 +117445,14 @@
 														"$ref": "AAAAAAGFi15r9NMHg5o="
 													},
 													"visible": false,
-													"font": "Source Code Pro;18;0",
+													"font": "Arial;18;0",
 													"left": -16,
 													"top": 16,
 													"height": 18,
 													"horizontalAlignment": 1
 												}
 											],
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 208,
 											"top": 496,
 											"width": 88,
@@ -117480,7 +117480,7 @@
 												"$ref": "AAAAAAGFi15r9NMF0QY="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": -8,
 											"top": 8,
 											"width": 10,
@@ -117496,7 +117496,7 @@
 												"$ref": "AAAAAAGFi15r9NMF0QY="
 											},
 											"visible": false,
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": -8,
 											"top": 8,
 											"width": 10,
@@ -117511,13 +117511,13 @@
 											"model": {
 												"$ref": "AAAAAAGFi15r9NMF0QY="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 208,
 											"top": 526,
 											"width": 88
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"containerChangeable": true,
 									"left": 208,
 									"top": 496,
@@ -117555,7 +117555,7 @@
 											"model": {
 												"$ref": "AAAAAAGFi2KlA9Mzlag="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 64,
 											"top": 364,
 											"width": 183.59979248046875,
@@ -117611,7 +117611,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi15r9NMG6K0="
 									},
@@ -117650,7 +117650,7 @@
 											"model": {
 												"$ref": "AAAAAAGFi2K4WtNECwI="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 426,
 											"top": 215,
 											"width": 237.5997314453125,
@@ -117706,7 +117706,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi12jZdK4orY="
 									},
@@ -117745,7 +117745,7 @@
 											"model": {
 												"$ref": "AAAAAAGFi2LKctNVxIY="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 679,
 											"top": 446,
 											"width": 151.1998291015625,
@@ -117801,7 +117801,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi13qLdLfqH8="
 									},
@@ -117839,7 +117839,7 @@
 											"model": {
 												"$ref": "AAAAAAGFi2LaItNmgSQ="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 443,
 											"top": 521,
 											"width": 215.999755859375,
@@ -117895,7 +117895,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi15r9NMG6K0="
 									},
@@ -117934,7 +117934,7 @@
 											"model": {
 												"$ref": "AAAAAAGFi2MKmtN5qkk="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 515,
 											"top": 399,
 											"width": 215.999755859375,
@@ -117990,7 +117990,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi15r9NMG6K0="
 									},
@@ -118019,7 +118019,7 @@
 									"model": {
 										"$ref": "AAAAAAGFi2NSatOKntI="
 									},
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"containerChangeable": true,
 									"left": 240,
 									"top": 664,
@@ -118100,7 +118100,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi2NSatOLCl0="
 									},
@@ -118139,7 +118139,7 @@
 											"model": {
 												"$ref": "AAAAAAGFi2ccINOyFy4="
 											},
-											"font": "Source Code Pro;18;0",
+											"font": "Arial;18;0",
 											"left": 872,
 											"top": 414,
 											"width": 151.1998291015625,
@@ -118195,7 +118195,7 @@
 											"edgePosition": 1
 										}
 									],
-									"font": "Source Code Pro;18;0",
+									"font": "Arial;18;0",
 									"head": {
 										"$ref": "AAAAAAGFi12jZdK4orY="
 									},
